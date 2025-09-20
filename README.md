@@ -1,25 +1,37 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐤 Hello, I'm Jaemin! </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Exploring and Learning Frontend Development
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Exploring and Learning Frontend Development</div>
+</div>
+
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> UMC Web 7th (2024.09 ~ 2025.02)</li><li> HMG Softeer Bootcamp Web FE 6th (2025.07 ~ 2025.08) </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:ohj369@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohj369@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
+    <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
+        <li> UMC Web 7th (2024.09 ~ 2025.02)</li>
+        <li> HMG Softeer Bootcamp Web FE 6th (2025.07 ~ 2025.08) </div> 
+    </ul>
+</div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img
-  src="https://github-readme-stats.vercel.app/api?username=jjamming&show_icons=true&bg_color=1E1E1E&title_color=61DAFB&text_color=ffffff&icon_color=3178C6"
-/> </div> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
     </div>
+</div>
+    
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
+    <div>
+        <a href=mailto:ohj369@gmail.com>
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohj369@gmail.com">
+        </a>
+    </div>
+</div>
+    
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+    <div style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api?username=jjamming&show_icons=true&bg_color=1E1E1E&title_color=61DAFB&text_color=ffffff&icon_color=3178C6"/> 
+    </div> 
+</div>
     
