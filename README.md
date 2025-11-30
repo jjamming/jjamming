@@ -32,7 +32,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div style="text-align: left; display: flex; align-items: center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jjamming&show_icons=true&bg_color=1E1E1E&title_color=61DAFB&text_color=ffffff&icon_color=3178C6"/>
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=jjamming&show_icons=true&bg_color=1E1E1E&title_color=61DAFB&text_color=ffffff&icon_color=3178C6"/> -->
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjamni" alt="Solved.ac Profile" />
     </div> 
     
