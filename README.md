@@ -7,7 +7,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About </h2>
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         <li> UMC Web 7th (2024.09 ~ 2025.02)</li>
-        <li> HMG Softeer Bootcamp Web FE 6th (2025.07 ~ 2025.08) </div> 
+        <li> HMG Softeer Bootcamp Web FE 6th (2025.07 ~ 2025.08) </li>
+        <li> miriDiH - Frontend Intern (2026.01 ~ PRESENT) </li>
     </ul>
 </div>
 
@@ -18,6 +19,13 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     </div>
+</div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Contributions </h2>
+    
+* [reactjs/ko.react.dev - docs: translate React Compiler callouts for useMemo, useCallback, and memo](https://github.com/reactjs/ko.react.dev/pull/1440)
+    
 </div>
     
 <div style="text-align: left;">
