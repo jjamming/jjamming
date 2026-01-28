@@ -8,7 +8,7 @@
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         <li> UMC Web 7th (2024.09 ~ 2025.02)</li>
         <li> HMG Softeer Bootcamp Web FE 6th (2025.07 ~ 2025.08) </li>
-        <li> miriDiH - Frontend Intern (2026.01 ~ PRESENT) </li>
+        <li> miriDiH - Frontend Intern (2026.01 ~ Present) </li>
     </ul>
 </div>
 
