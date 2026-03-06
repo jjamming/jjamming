@@ -1,6 +1,9 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐤 Hello, I'm Jaemin! </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Exploring and Learning Frontend Development</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+      Exploring and Learning Frontend Development<br/>
+      Learning to work smarter with AI agents
+  </div>
 </div>
 
 <div style="text-align: left;"> 
@@ -8,7 +11,7 @@
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         <li> UMC Web 7th (2024.09 ~ 2025.02)</li>
         <li> HMG Softeer Bootcamp Web FE 6th (2025.07 ~ 2025.08) </li>
-        <li> miriDiH - Frontend Intern (2026.01 ~ Present) </li>
+        <li> Miridih - Frontend Intern (2026.01 ~ Present) </li>
     </ul>
 </div>
 
@@ -45,4 +48,3 @@
     </div> 
     
 </div>
-    
