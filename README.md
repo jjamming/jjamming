@@ -28,6 +28,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Contributions </h2>
     
 * [reactjs/ko.react.dev - docs: translate React Compiler callouts for useMemo, useCallback, and memo](https://github.com/reactjs/ko.react.dev/pull/1440)
+* [reactjs/ko.react.dev - docs: translate optional key parameter in createPortal](https://github.com/reactjs/ko.react.dev/pull/1501)
+* [reactjs/ko.react.dev - docs: unify optional parameter translation](https://github.com/reactjs/ko.react.dev/pull/1502)
     
 </div>
     
