@@ -28,10 +28,13 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Contributions </h2>
     
-* [reactjs/ko.react.dev - docs: translate React Compiler callouts for useMemo, useCallback, and memo](https://github.com/reactjs/ko.react.dev/pull/1440)
-* [reactjs/ko.react.dev - docs: translate optional key parameter in createPortal](https://github.com/reactjs/ko.react.dev/pull/1501)
-* [reactjs/ko.react.dev - docs: unify optional parameter translation](https://github.com/reactjs/ko.react.dev/pull/1502)
-* [chattymin/PokeTokenBar - fix: close the popover when another menu bar popup opens](https://github.com/chattymin/PokeTokenBar/pull/154)
+* [**reactjs/ko.react.dev**](https://github.com/reactjs/ko.react.dev)
+  * [docs: translate React Compiler callouts for useMemo, useCallback, and memo](https://github.com/reactjs/ko.react.dev/pull/1440)
+  * [docs: translate optional key parameter in createPortal](https://github.com/reactjs/ko.react.dev/pull/1501)
+  * [docs: unify optional parameter translation](https://github.com/reactjs/ko.react.dev/pull/1502)
+* [**chattymin/PokeTokenBar**](https://github.com/chattymin/PokeTokenBar)
+  * [fix: close the popover when another menu bar popup opens](https://github.com/chattymin/PokeTokenBar/pull/154)
+  * [feat: label the ends of the difficulty sliders](https://github.com/chattymin/PokeTokenBar/pull/398)
     
 </div>
     
